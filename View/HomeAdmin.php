@@ -34,7 +34,7 @@
             <div class="row">
                 <div class="">                 
                     <?php
-                    echo '<img src="homelogo.png" style="height:50em">';
+                    echo '<img src="/lib/img/homelogo.png" style="height:50em">';
                     ?>                  
                 </div>
             </div>

@@ -32,7 +32,7 @@
             <div class="row">
                 <div class="col-lg-14">
                     <?php
-                    echo '<img src="lib/img/homelogo.png" style="height:50em">';
+                    echo '<img src="/lib/img/homelogo.png" style="height:50em">';
                     ?>                  
                 </div>
             </div>

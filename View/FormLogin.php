@@ -62,7 +62,7 @@ session_start();
                 <form action="/Controller/LoginController.php" method="post">
                     <div class="row" style="padding-bottom:6%">
                         <div class="col-md-offset-0 col-md-12">
-                            <?php echo "<img src='logo.png' height=170em>"; ?>
+                            <?php echo "<img src='/lib/img/logo.png' height=170em>"; ?>
                         </div>
                     </div>
                     <div class="form-group">
